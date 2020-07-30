@@ -2,7 +2,7 @@
 
 <img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
-## Mis redes sociales
+## My social networks
 
 <a href="https://twitter.com/dlperlacios">
   <img align="left" alt="Twitter" width="25px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
