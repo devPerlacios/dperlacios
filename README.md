@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Daniel 👋
+
+<img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
 <!--
 **dperlacios/dperlacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
