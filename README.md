@@ -6,6 +6,8 @@
 
 - Soy TJ, padre de una niña muy inteligente (Salió a mí por supuesto), Analista, Desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
 
+- Si tiene que ver con código, me interesa.
+
 - Siempre estaré dispuesto a enseñar y aprender algo nuevo.
 
 - Aplicamos el lema "Aprender juntos" by __CBC__. (Ja ja ja)
