@@ -16,11 +16,11 @@
 <a href="https://www.linkedin.com/in/dperlacios/">
   <img align="left" alt="Linkdein" width="25px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png"/>
 </a>
-<a href="mailto:d.perlacios@gmail.com">
-  <img align="left" alt="Gmail" width="28px" src="https://cdn.icon-icons.com/icons2/112/PNG/128/gmail_18964.png"/>
-</a>
 <a href="https://stackoverflow.com/users/14019657/daniel-perlacios">
   <img align="left" alt="StackOverflow" width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/stackoverflow_icon_130823.png"/>
+</a>
+<a href="mailto:d.perlacios@gmail.com">
+  <img align="left" alt="Gmail" width="28px" src="https://cdn.icon-icons.com/icons2/112/PNG/128/gmail_18964.png"/>
 </a>
 <a href="">
   <img align="left" alt="GooglePlay" width="25px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202002appsgooglegoogleplaylogoplaysocialsocialmedia-115686_115615.png"/>
