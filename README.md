@@ -2,7 +2,7 @@
 
 <img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
-## Sobre mí
+## Acerca de mí
 
 - Soy TJ, padre de una niña muy inteligente (Salió a mí por supuesto), Analista, Desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
 
