@@ -14,7 +14,7 @@
   <img align="left" alt="Instagram" width="25px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"/>
 </a>
 <a href="">
-  <img align="left" alt="GooglePlay" width="25px" src="https://cdn.icon-icons.com/icons2/2119/PNG/128/social_google_play_store_icon_131220.png"/>
+  <img align="left" alt="GooglePlay" width="25px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202002appsgooglegoogleplaylogoplaysocialsocialmedia-115686_115615.png"/>
 </a>
 <a href="mailto:d.perlacios@gmail.com">
   <img align="left" alt="Gmail" width="28px" src="https://cdn.icon-icons.com/icons2/112/PNG/128/gmail_18964.png"/>
