@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-- Soy TJ, padre de una niña muy inteligente, futuro esposo, Analista, Desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
+- Soy TJ, padre de una niña muy inteligente, futuro esposo responsable, Analista, Desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
 
 - Si tiene que ver con código, me interesa.
 
