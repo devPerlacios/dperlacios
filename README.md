@@ -1,8 +1,18 @@
-# Hi, I'm Daniel ✌️
+# Hola, soy Daniel ✌️
+
+Android & Flutter
+
+## Sobre mí
+
+- Soy TJ, padre de una niña muy inteligente (Salió a mí por supuesto), Analista, Desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
+
+- Siempre estaré dispuesto a enseñar y aprender algo nuevo.
+
+- Aplicamos el lema "Aprender juntos" by __CBC__. (Ja ja ja)
 
 <img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
-## My social networks
+## Mis redes sociales
 
 <a href="https://web.facebook.com/d.perlacios">
   <img align="left" alt="Facebook" width="25px" src="https://cdn.icon-icons.com/icons2/1099/PNG/128/1485482214-facebook_78681.png"/>
