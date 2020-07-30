@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel ✌️
 
 <img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
