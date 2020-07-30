@@ -1,4 +1,4 @@
-# Hola, soy Daniel ✌️
+# Hola, soy Daniel :wave: 
 
 <img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
