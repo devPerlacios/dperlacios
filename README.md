@@ -22,3 +22,6 @@
 <a href="https://web.facebook.com/d.perlacios">
   <img align="left" alt="Facebook" width="25px" src="https://cdn.icon-icons.com/icons2/1099/PNG/128/1485482214-facebook_78681.png"/>
 </a>
+<a href="https://stackoverflow.com/users/14019657/daniel-perlacios">
+  <img align="left" alt="StackOverflow" width="25px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+</a>
