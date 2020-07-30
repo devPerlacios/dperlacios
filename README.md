@@ -10,6 +10,7 @@ Android & Flutter
 
 - Aplicamos el lema "Aprender juntos" by __CBC__. (Ja ja ja)
 
+
 <img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
 ## Mis redes sociales
