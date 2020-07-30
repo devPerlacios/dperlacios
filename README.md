@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/dperlacios/">
   <img align="left" alt="Linkdein" width="25px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png"/>
 </a>
-<a href="https://stackoverflow.com/users/14019657/daniel-perlacios">
+<a href="https://stackoverflow.com/users/14019657/daniel-perlacios?tab=profile">
   <img align="left" alt="StackOverflow" width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/stackoverflow_icon_130823.png"/>
 </a>
 <a href="mailto:d.perlacios@gmail.com">
