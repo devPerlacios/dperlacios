@@ -2,6 +2,8 @@
 
 Android & Flutter
 
+<img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
+
 ## Sobre mí
 
 - Soy TJ, padre de una niña muy inteligente (Salió a mí por supuesto), Analista, Desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
@@ -9,10 +11,6 @@ Android & Flutter
 - Siempre estaré dispuesto a enseñar y aprender algo nuevo.
 
 - Aplicamos el lema "Aprender juntos" by __CBC__. (Ja ja ja)
-
-----
-
-<img src="https://github.com/dperlacios/dperlacios/blob/master/img.png?raw=true">
 
 ## Mis redes sociales
 
