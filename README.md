@@ -20,7 +20,7 @@
 <a href="https://twitter.com/dlperlacios">
   <img align="left" alt="Twitter" width="25px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579583-yumminkysocialmedia02_83111.png"/>
 </a>
-<a href="https://www.instagram.com/dperlacios/">
+<a href="https://www.instagram.com/ds.perlacios/">
   <img align="left" alt="Instagram" width="25px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png"/>
 </a>
 <a href="https://www.linkedin.com/in/dperlacios/">
