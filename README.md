@@ -4,13 +4,13 @@
 
 ## Acerca de mí
 
-- Soy TJ, Padre de una niña muy inteligente, Esposo responsable, Analista, Desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
+- Soy TJ, padre de una niña muy inteligente, esposo responsable, analista, desarrollador Android y aprendo Flutter por mero gusto. Sí, en ese orden.
 
 - Si tiene que ver con código, me interesa.
 
 - Siempre estaré dispuesto a enseñar y aprender algo nuevo.
 
-- Aplicamos el lema "Aprender juntos" by __CBC__. (Ja ja ja)
+- Aplicamos el lema "Aprender juntos" by __CBC__.
 
 ## Mis redes sociales
 
